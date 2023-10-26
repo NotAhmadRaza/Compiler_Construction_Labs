@@ -1,0 +1,17 @@
+C:\Users\Mehrban Ali\source\repos\Ahmad Raza(fa20-bcs-001)\Ahmad Raza(fa20-bcs-001)\bin\Debug\net7.0-windows\Ahmad Raza(fa20-bcs-001).exe
+C:\Users\Mehrban Ali\source\repos\Ahmad Raza(fa20-bcs-001)\Ahmad Raza(fa20-bcs-001)\bin\Debug\net7.0-windows\Ahmad Raza(fa20-bcs-001).deps.json
+C:\Users\Mehrban Ali\source\repos\Ahmad Raza(fa20-bcs-001)\Ahmad Raza(fa20-bcs-001)\bin\Debug\net7.0-windows\Ahmad Raza(fa20-bcs-001).runtimeconfig.json
+C:\Users\Mehrban Ali\source\repos\Ahmad Raza(fa20-bcs-001)\Ahmad Raza(fa20-bcs-001)\bin\Debug\net7.0-windows\Ahmad Raza(fa20-bcs-001).dll
+C:\Users\Mehrban Ali\source\repos\Ahmad Raza(fa20-bcs-001)\Ahmad Raza(fa20-bcs-001)\bin\Debug\net7.0-windows\Ahmad Raza(fa20-bcs-001).pdb
+C:\Users\Mehrban Ali\source\repos\Ahmad Raza(fa20-bcs-001)\Ahmad Raza(fa20-bcs-001)\obj\Debug\net7.0-windows\Ahmad_Raza_fa20_bcs_001_.Form1.resources
+C:\Users\Mehrban Ali\source\repos\Ahmad Raza(fa20-bcs-001)\Ahmad Raza(fa20-bcs-001)\obj\Debug\net7.0-windows\Ahmad Raza(fa20-bcs-001).csproj.GenerateResource.cache
+C:\Users\Mehrban Ali\source\repos\Ahmad Raza(fa20-bcs-001)\Ahmad Raza(fa20-bcs-001)\obj\Debug\net7.0-windows\Ahmad Raza(fa20-bcs-001).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehrban Ali\source\repos\Ahmad Raza(fa20-bcs-001)\Ahmad Raza(fa20-bcs-001)\obj\Debug\net7.0-windows\Ahmad Raza(fa20-bcs-001).AssemblyInfoInputs.cache
+C:\Users\Mehrban Ali\source\repos\Ahmad Raza(fa20-bcs-001)\Ahmad Raza(fa20-bcs-001)\obj\Debug\net7.0-windows\Ahmad Raza(fa20-bcs-001).AssemblyInfo.cs
+C:\Users\Mehrban Ali\source\repos\Ahmad Raza(fa20-bcs-001)\Ahmad Raza(fa20-bcs-001)\obj\Debug\net7.0-windows\Ahmad Raza(fa20-bcs-001).csproj.CoreCompileInputs.cache
+C:\Users\Mehrban Ali\source\repos\Ahmad Raza(fa20-bcs-001)\Ahmad Raza(fa20-bcs-001)\obj\Debug\net7.0-windows\Ahmad Raza(fa20-bcs-001).dll
+C:\Users\Mehrban Ali\source\repos\Ahmad Raza(fa20-bcs-001)\Ahmad Raza(fa20-bcs-001)\obj\Debug\net7.0-windows\refint\Ahmad Raza(fa20-bcs-001).dll
+C:\Users\Mehrban Ali\source\repos\Ahmad Raza(fa20-bcs-001)\Ahmad Raza(fa20-bcs-001)\obj\Debug\net7.0-windows\Ahmad Raza(fa20-bcs-001).pdb
+C:\Users\Mehrban Ali\source\repos\Ahmad Raza(fa20-bcs-001)\Ahmad Raza(fa20-bcs-001)\obj\Debug\net7.0-windows\Ahmad Raza(fa20-bcs-001).genruntimeconfig.cache
+C:\Users\Mehrban Ali\source\repos\Ahmad Raza(fa20-bcs-001)\Ahmad Raza(fa20-bcs-001)\obj\Debug\net7.0-windows\ref\Ahmad Raza(fa20-bcs-001).dll
+C:\Users\Mehrban Ali\source\repos\Ahmad Raza(fa20-bcs-001)\Ahmad Raza(fa20-bcs-001)\obj\Debug\net7.0-windows\Ahmad_Raza_fa20_bcs_001_.Form2.resources

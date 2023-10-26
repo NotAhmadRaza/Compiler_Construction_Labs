@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ahmad Raza(fa20-bcs-001)/1.0.0": {
+        "runtime": {
+          "Ahmad Raza(fa20-bcs-001).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ahmad Raza(fa20-bcs-001)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
